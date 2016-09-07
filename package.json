@@ -21,9 +21,11 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.13.0",
     "leaflet": "^0.7.7",
+    "leaflet-draw": "^0.3.2",
     "react": "15.3.0",
     "react-dom": "15.3.0",
-    "react-leaflet": "^0.12.1"
+    "react-leaflet": "^0.12.1",
+    "react-leaflet-draw": "^0.10.1"
   },
   "devDependencies": {
     "babel-core": "^6.13.2",
